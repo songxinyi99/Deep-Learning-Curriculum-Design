@@ -1,0 +1,11 @@
+names:
+  - 0: Header
+  - 1: Title
+  - 2: Text
+  - 3: Figure
+  - 4: Foot
+nc: 5
+path: D:\university information\specialized course\pattern recognition\yolov10-main\yolov10-main\data
+train: train/images
+val: valid/images
+test: test/images
